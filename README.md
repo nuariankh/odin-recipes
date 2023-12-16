@@ -1,0 +1,1 @@
+This project is a website that will contain a few recipes. It will serve to test my skills in HTML and CSS
